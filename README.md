@@ -37,5 +37,5 @@ const gaurab = {
 <br><br>
 <p align="left">
   <img width="600px" src="https://github-readme-stats.vercel.app/api?username=gaurabhalder&theme=tokyonight&show_icons=true" alt="Gaurab's Github Stats" />
-  <img align="right" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurabhalder&theme=synthwave">
+  <img align="right" height="300px" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurabhalder&theme=synthwave">
 </p>
