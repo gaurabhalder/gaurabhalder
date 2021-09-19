@@ -16,7 +16,7 @@ const gaurab = {
   Education :
            [
            { University: The People's University of Bangladesh'},
-           { Collge: Institute Of Science And Technology},
+           { Collage: Institute Of Science And Technology},
            { School : West Dhanmondi Yousuf High School}
            ],
  Experience : ['Sysadmin @ Sadia Enterprise'
