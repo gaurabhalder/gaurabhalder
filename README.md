@@ -38,10 +38,3 @@ const gaurab = {
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=gaurabhalder&theme=tokyonight&show_icons=true" alt="Imran's Github Stats" />
 </p>
-<p align="left">
-  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurabhalder&theme=synthwave">
-  <img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurabhalder&theme=synthwave">
-</p>
-  //<p align="center">
-      <img src="https://activity-graph.herokuapp.com/graph?username=gaurabhalder&bg_color=#0438cd&color=E5289E&line=DA5B0B&point=E1E8EB">
-    </p>
