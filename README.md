@@ -28,7 +28,7 @@ const gaurab = {
 
 # :Computer: Languages that I can speak
 * Front-end development : HTML, CSS, Bootstrap, Laravel
-* Backend development : SQL, MySQL, Oracle, Js
+* Backend development : SQL, MySQL, Oracle, Js, php
 
 
 
