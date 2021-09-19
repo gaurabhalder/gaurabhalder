@@ -2,7 +2,7 @@
 <h3> < Hello World, I'm <a href="https://facebook.com/gaurab.halder" target="_blank"> Gaurab Halder</a> /></h3><br>
 I am a full stack web developer with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. <br> <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Imran_Hossain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ih000/)](https://www.linkedin.com/in/ih000/) [![Gmail Badge](https://img.shields.io/badge/-imran527166@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imran527166@gmail.com)](mailto:imran527166@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/garuabhalder?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garuabhalder/)](https://www.linkedin.com/in/garuabhalder/) [![Gmail Badge](https://img.shields.io/badge/gaurabhalder92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gaurabhalder92@gmail.com)](mailto:gaurabhalder92@gmail.com)
 
 <br/>
 ##### A little more about me...  
