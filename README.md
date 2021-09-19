@@ -11,7 +11,7 @@ I am a full stack web developer with a great passion for programming. I am tryin
 const gaurab = {
   Pronouns: "He" | "his",
   Description : [Passionate, Optimistic,
-                Bibliophile, Tech enthusiast  
+                Ergophile, Tech enthusiast  
                 and a lot more ],
   Education :
            [
