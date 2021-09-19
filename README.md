@@ -35,9 +35,7 @@ const gaurab = {
  <img src = 'https://image.flaticon.com/icons/svg/919/919827.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>  <img src = 'https://image.flaticon.com/icons/png/512/2306/2306154.png' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>
 
 <br><br>
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=gaurabhalder&theme=tokyonight&show_icons=true" alt="Imran's Github Stats" />
-</p>
-  <p align="center">
-  <img height="300px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurabhalder&theme=synthwave">
+<p align="left">
+  <img height="300px" src="https://github-readme-stats.vercel.app/api?username=gaurabhalder&theme=tokyonight&show_icons=true" alt="Imran's Github Stats" />
+  <img align="right" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurabhalder&theme=synthwave">
 </p>
