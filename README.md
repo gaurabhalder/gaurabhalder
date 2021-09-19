@@ -41,5 +41,5 @@ const gaurab = {
   <img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurabhalder&theme=synthwave">
 </p>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=cgaurabhalder&bg_color=#0438cd&color=E5289E&line=DA5B0B&point=E1E8EB">
+  <img src="https://activity-graph.herokuapp.com/graph?username=gaurabhalder&bg_color=#0438cd&color=E5289E&line=DA5B0B&point=E1E8EB">
 </p>
