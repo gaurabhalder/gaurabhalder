@@ -5,7 +5,7 @@ I am a full stack web developer with a great passion for programming. I am tryin
 [![Linkedin Badge](https://img.shields.io/badge/-gaurabhalder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garuabhalder/)](https://www.linkedin.com/in/garuabhalder/)  [![Gmail Badge](https://img.shields.io/badge/gaurabhalder92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gaurabhalder92@gmail.com)](mailto:gaurabhalder92@gmail.com)
 
 <br/>
-##### A little more about me...  
+# A little more about me...  
 
 ```javascript
 const gaurab = {
@@ -15,18 +15,20 @@ const gaurab = {
                 and a lot more ],
   Education :
            [
-           { University: Dhaka International University},
-           { Collge: MCET Engineering Collage},
-           { School : Katiadi Pilot Model High School}
+           { University: The People's University of Bangladesh'},
+           { Collge: Institute Of Science And Technology},
+           { School : West Dhanmondi Yousuf High School}
            ],
- Experience : ['Sysadmin @ Sadia Enterprise']
+ Experience : ['Sysadmin @ Sadia Enterprise'
+              'Network Engineer @ Rite Solutions LTD'
+              'Freelance web developer']
 }
 ```
 
 
-### :Computer: Languages that I can speak
-* Front-end development :  Bootstrap, Laravel
-* Backend development : MsSQL, MySQL
+# :Computer: Languages that I can speak
+* Front-end development : HTML, CSS, Bootstrap, Laravel
+* Backend development : SQL, MySQL, Oracle, Js
 
 
 
