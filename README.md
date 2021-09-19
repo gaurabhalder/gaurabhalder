@@ -38,3 +38,6 @@ const gaurab = {
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=gaurabhalder&theme=tokyonight&show_icons=true" alt="Imran's Github Stats" />
 </p>
+  <p align="center">
+  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurabhalder&theme=synthwave">
+</p>
