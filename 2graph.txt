@@ -5,3 +5,7 @@
 <p align="center">
       <img src="https://activity-graph.herokuapp.com/graph?username=gaurabhalder&bg_color=#0438cd&color=E5289E&line=DA5B0B&point=E1E8EB">
     </p>
+
+
+git reset --soft HEAD
+git commit --amend
